@@ -57,8 +57,6 @@ The goal of this project is to develop hands-on experience with enterprise netwo
 ```
 personal-homelab/
 │
-├── README.md
-│
 ├── diagrams/
 │   ├── 
 │   ├── 
@@ -101,6 +99,7 @@ personal-homelab/
 │   ├── 
 │   └── 
 │
+├── README.md
 ```
 
 ---
