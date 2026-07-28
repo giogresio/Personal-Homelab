@@ -98,4 +98,4 @@ personal-homelab/
 ```
 
 ---
-*OVERVIEW files indicate what the folder consists of*
+*The OVERVIEW files indicate what files reside within each folder*
