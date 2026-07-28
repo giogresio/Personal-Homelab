@@ -3,7 +3,7 @@
 
 | Device | Interface | IP Address | Subnet | Gateway | VLAN | Purpose |
 |---------|-----------|------------|--------|---------|------|---------|
-| Home Router | Ethernet | 192.168.50.1 | /24 | (private) | NA | Internet Gateway |
+| Home Router | Switch (Ethernet) | 192.168.50.1 | /24 | (private) | NA | Internet Gateway |
 | Proxmox VE | Vmbr1 | 192.168.50.50 | /24 | 192.168.50.1 | NA | Hypervisor Management |
 | OPNsense | Vmbr0 | 192.168.50.100 | /24 | 192.168.50.1 | NA | Firewall/DHCP/Home Network Access |
 | OPNsense | Vmbr1 | 192.168.10.2 | /24 | (Itself) | 10 | Backend Gateway |
