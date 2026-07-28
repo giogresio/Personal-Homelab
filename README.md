@@ -13,7 +13,7 @@ This homelab replicates a small enterprise environment consisting of:
 - Active Directory and DNS - Windows Server 2022
 - Network File Storage - TrueNAS Scale
 - Linux - Ubuntu Server
-- Docker Containers
+- Docker Containers - Portainer
 
 The goal of this project is to develop hands-on experience with enterprise networking, systems administration, and infrastructure management.
 
