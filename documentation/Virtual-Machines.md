@@ -48,9 +48,9 @@ Hosts Docker containers and Linux-based services for the homelab.
 
 # VM Relationships
 
-OPNsense - offers routing and segmentation for the rest of the VMs 
+OPNsense - offers routing and segmentation for the rest of the network. 
 
-Windows Server - offers DNS services for the other servers
+Windows Server - offers DNS services for the other servers.
 
-TrueNAS - offers File storage services for the other servers 
+TrueNAS - offers File storage services for the other servers. 
 
