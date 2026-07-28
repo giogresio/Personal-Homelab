@@ -72,7 +72,9 @@ Firewall policies follow the principle of least privilege.
 
 ### Backend VLAN
 
+- DNS
 - Full outbound Internet access
+- SMB file access
 - Administrative access to infrastructure
 - Communication between backend services
 
