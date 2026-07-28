@@ -1,6 +1,6 @@
 # Personal Homelab (In Progress)
 
-This project consists of a homelab built using Proxmox VE as a hypervisor to simulate different types of common business IT infrastructure. This project demonstrates hands on practical experience building and configuring a personalized server rack with virtualization, network segmentation, Active Directory, firewall configurations, network file storage, and Linux server administration.
+This project consists of a completely custom built homelab server rack system using Proxmox VE as the main hypervisor server OS to simulate different types of common business IT infrastructure. This project demonstrates hands on practical experience planning, designing and configuring a backend service system with virtualization, network segmentation, Active Directory, firewall configurations, and network attached file storage.
 
 ---
 
@@ -15,7 +15,7 @@ This homelab replicates a small enterprise environment consisting of:
 - Linux - Ubuntu Server
 - Docker Containers - Portainer
 
-The goal of this project is to develop hands-on experience with enterprise networking, systems administration, and infrastructure management.
+The goal of this project is to develop hands-on experience with enterprise networking, systems administration, and infrastructure management to expand on backend operations within the IT industry.
 
 ---
 
@@ -24,8 +24,9 @@ The goal of this project is to develop hands-on experience with enterprise netwo
 - Virtualization
 - Network Administration
 - Firewall Configuration
-- VLAN Design
+- VLAN Design and Segmentation
 - Routing
+- Rack Assembly and Design
 - Linux Administration
 - Windows Server Administration
 - Active Directory
@@ -34,9 +35,7 @@ The goal of this project is to develop hands-on experience with enterprise netwo
 - SMB File Sharing
 - Storage Administration
 - Troubleshooting
-- Docker
 - Enterprise Networking
-
 
 ---
 
@@ -80,14 +79,10 @@ personal-homelab/
 │   └── Virtual-Machines.md
 │
 ├── photographs/
-│   ├── 
-│   ├── 
-│   ├── 
-│   ├── 
-│   ├──
-│   ├── 
-│   ├── 
-│   └── 
+│   ├── GUI Access Desktop.jpg
+│   ├── Hypervisor Server.jpg
+│   ├── OVERVIEW
+│   ├── Server Rack.jpg
 │
 ├── screenshots/
 │   ├──
