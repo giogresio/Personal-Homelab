@@ -57,15 +57,11 @@ The goal of this project is to develop hands-on experience with enterprise netwo
 personal-homelab/
 │
 ├── diagrams/
-│   ├── 
-│   ├── 
-│   ├── 
-│   ├── 
-│   ├── 
-│   ├── 
-│   ├── 
-│   ├── 
-│   └── 
+│   ├── Firewall Rules.md
+│   ├── IP Addresses.md
+│   ├── Network Topology.png
+│   ├── OVERVIEW
+│   └── Rack Layout.png
 │
 ├── documentation/
 │   ├── Containers.md
