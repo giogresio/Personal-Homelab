@@ -15,7 +15,7 @@ This homelab replicates a small enterprise environment consisting of:
 - Linux - Ubuntu Server
 - Docker Containers - Portainer
 
-The goal of this project is to develop hands-on experience with enterprise networking, systems administration, and infrastructure management to expand on backend operations within the IT industry.
+The goal of this project is to develop hands-on experience with enterprise networking, systems administration, and infrastructure management to expand on backend operational knowledge within the IT industry.
 
 ---
 
