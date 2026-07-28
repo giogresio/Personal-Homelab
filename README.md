@@ -96,5 +96,5 @@ personal-homelab/
 │
 ├── README.md
 ```
-
+*OVERVIEW files indicate what the folder consists of*
 ---
