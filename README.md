@@ -78,7 +78,7 @@ personal-homelab/
 │   ├── GUI Access Desktop.jpg
 │   ├── Hypervisor Server.jpg
 │   ├── OVERVIEW
-│   ├── Server Rack.jpg
+│   └── Server Rack.jpg
 │
 ├── screenshots/
 │   ├──
