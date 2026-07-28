@@ -56,8 +56,3 @@ TrueNAS - offers File storage services for the other servers
 
 ```
 
----
-
-# Future Expansion
-
-x
