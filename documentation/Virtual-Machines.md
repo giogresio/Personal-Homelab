@@ -48,23 +48,12 @@ Hosts Docker containers and Linux-based services for the homelab.
 
 # VM Relationships
 
-```text
-                    Internet
-                        │
-                  Home Router
-                        │
-                    OPNsense 
-              ┌─────────┴─────────┐
-              │                   │
-         VLAN 10             VLAN 20
-      Infrastructure         Clients
-              │
-     ┌────────┼────────┐
-     │        │        │
-Windows   TrueNAS   Ubuntu
- Server     SCALE    Server
-   │          │         │
- AD/DNS    SMB NAS    Docker
+OPNsense - offers routing and segmentation for the rest of the VMs 
+
+Windows Server - offers DNS services for the other servers
+
+TrueNAS - offers File storage services for the other servers 
+
 ```
 
 ---
