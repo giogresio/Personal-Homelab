@@ -73,4 +73,4 @@
 
 Future infrastructure improvement plans cancelled due to global computer component shortages
 
-*originally had 64GB RAM however 1 motherboard DIMM slot went out and I sold two sticks of 16GB to a friend who was in need of the memory* 
+*The Hypervisor Server originally had 64GB RAM, however a motherboard DIMM slot went out and I ended up selling two of the sticks of 16GB to a friend who was in need of the memory due to the ongoing chip shortage* 
