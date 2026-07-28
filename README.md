@@ -94,4 +94,7 @@ personal-homelab/
 ```
 
 ---
-*The OVERVIEW files indicate what files reside within each folder*
+
+Note-
+
+*The OVERVIEW files indicate what files reside within each folder.*
