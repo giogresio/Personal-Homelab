@@ -55,7 +55,7 @@ The goal of this project is to develop hands-on experience with enterprise netwo
 # Repository Structure
 
 ```
-enterprise-homelab/
+personal-homelab/
 │
 ├── README.md
 │
