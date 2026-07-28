@@ -72,3 +72,5 @@
 ## Planned Resource Expansion
 
 Future infrastructure improvement plans cancelled due to global computer component shortages
+
+*originally had 64GB RAM however 1 motherboard DIMM slot went out and I sold two sticks of 16GB to a friend who was in need of the memory* 
