@@ -8,7 +8,7 @@ This homelab provides several core infrastructure services commonly found in ent
 
 | Service | Host | Purpose | Protocol(s) | Port(s) |
 |----------|------|---------|-------------|---------|
-| Firewall | OPNsense | Filters and secures network traffic | TCP/UDP | Multiple |
+| Firewall | OPNsense | Filters and secures network traffic | TCP/UDP | ALL |
 | Routing | OPNsense | Routes traffic between VLANs and the Internet | IP | N/A |
 | Network Address Translation (NAT) | OPNsense | Translates private IP addresses for Internet access | IP | N/A |
 | DHCP | OPNsense | Assigns IP addresses to client devices | UDP | 67, 68 |
