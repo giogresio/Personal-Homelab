@@ -1,8 +1,12 @@
 # Contents
----
+-
 Domain Names
+-
 IP Addresses
+-
 Network Topology
+-
 Rack Layout
+-
 Firewall Rules
 ---
