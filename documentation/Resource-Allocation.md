@@ -71,4 +71,4 @@
 
 ## Planned Resource Expansion
 
-Future infrastructure improvement plans cancelled due to computer component shortages
+Future infrastructure improvement plans cancelled due to global computer component shortages
