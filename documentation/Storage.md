@@ -1,7 +1,5 @@
 # Storage 
 
-## Storage Overview
-
 The homelab uses three separate storage devices to isolate the hypervisor, virtual machine storage, and network-attached storage (NAS). 
 
 ---
