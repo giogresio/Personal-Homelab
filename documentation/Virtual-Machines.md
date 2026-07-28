@@ -54,5 +54,3 @@ Windows Server - offers DNS services for the other servers
 
 TrueNAS - offers File storage services for the other servers 
 
-```
-
