@@ -14,7 +14,7 @@
 | Portainer | Vmbr2 | 192.168.10.41 | /24 | 192.168.10.2 | 10 | Docker Management |
 | Client PC | Ethernet | 192.168.50.10 | /24 | 192.168.50.1 | NA | WAN Access Desktop Interface |
 
-# Static Routes
+## Static Routes
 
 | Device | Destination | Gateway | Purpose |
 |--------|-------------|---------|---------|
