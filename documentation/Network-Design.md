@@ -77,10 +77,10 @@ Firewall policies follow the principle of least privilege.
 ### Client VLAN
 
 - Internet access
-- DNS
-- DHCP
+- DNS (Windows Server)
+- DHCP (OPNsense)
 - Active Directory authentication
-- SMB file access
+- SMB file access (TrueNAS)
 - Restricted access to backend systems
 
 ---
