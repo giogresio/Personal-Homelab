@@ -11,11 +11,7 @@ Network segmentation isolates infrastructure services from client devices while 
 ```text
                     Internet
                         │
-                 Home Router
-                 192.168.50.1
-                        │
-             Management Network
-             192.168.50.0/24
+                 Router/Modem/AP
                         │
                   vmbr0 (WAN)
                         │
