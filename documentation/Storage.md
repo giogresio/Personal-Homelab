@@ -69,7 +69,6 @@ The homelab uses three separate storage devices to isolate the hypervisor, virtu
 - Separate the hypervisor operating system from virtual machine storage.
 - Dedicate high-speed NVMe storage to virtual machine workloads.
 - Isolate network storage on a dedicated SATA SSD managed by TrueNAS.
-- Simplify backup, maintenance, and future storage expansion.
 - Provide centralized SMB storage for Windows and Linux systems.
 
 ---
