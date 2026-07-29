@@ -12,5 +12,10 @@
 | TrueNAS SCALE | Vmbr2 | 192.168.10.20 | /24 | 192.168.10.2 | 10 | Network File Storage |
 | Ubuntu Server | Vmbr2 | 192.168.10.40 | /24 | 192.168.10.2 | 10 | Docker Host |
 | Portainer | Vmbr2 | 192.168.10.41 | /24 | 192.168.10.2 | 10 | Docker Management |
-| Client PC (Wireless) | Wifi AP | 192.168.50.10 | /24 | 192.168.50.1 | NA | WAN Access Desktop Interface |
-| Client PC (Ethernet) | Ethernet | 192.168.10.10 | /24 | 192.168.10.2 | 10 | VLAN Access Desktop Interface |
+| Client PC | Ethernet | 192.168.50.10 | /24 | 192.168.50.1 | NA | WAN Access Desktop Interface |
+
+# Static Routes
+
+| Device | Destination | Gateway | Purpose |
+|--------|-------------|---------|---------|
+| Home Router | 192.168.10.0/24 | 192.168.50.100 | Route traffic to Backend VLAN |
