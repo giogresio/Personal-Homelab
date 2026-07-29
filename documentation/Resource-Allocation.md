@@ -48,7 +48,7 @@
 | Resource | Capacity |
 |----------|---------:|
 | Total Installed Memory | 32 GB |
-| Allocated to VMs/Host | 28 GB |
+| Allocated to Virtual Machines | 28 GB |
 
 > Memory allocations are static and can be adjusted later if workloads increase.
 
