@@ -34,7 +34,7 @@
 
 ### CPU Allocation
 
-| Resource | Threads |
+| Resource | Threads (vCPUs) |
 |----------|--------:|
 | Total CPU Threads Available | 16 |
 | Allocated to Virtual Machines | 13 |
@@ -45,10 +45,10 @@
 
 ### Memory Allocation
 
-| Resource | Capacity |
+| Resource | Capacity (GB) |
 |----------|---------:|
-| Total Installed Memory | 32 GB |
-| Allocated to Virtual Machines | 28 GB |
+| Total Installed Memory | 32  |
+| Allocated to Virtual Machines | 28  |
 
 > Memory allocations are static and can be adjusted later if workloads increase.
 
