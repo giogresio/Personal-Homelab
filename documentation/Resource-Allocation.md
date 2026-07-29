@@ -38,7 +38,6 @@
 |----------|--------:|
 | Total CPU Threads Available | 16 |
 | Allocated to Virtual Machines | 16 |
-| Unallocated | 0 |
 
 > **Note:** vCPU allocation is based on logical CPU threads. Since not every VM utilizes its assigned vCPUs simultaneously
 
@@ -50,7 +49,6 @@
 |----------|---------:|
 | Total Installed Memory | 32 GB |
 | Allocated to VMs/Host | 32 GB |
-| Remaining | 0 GB |
 
 > Memory allocations are static and can be adjusted later if workloads increase.
 
