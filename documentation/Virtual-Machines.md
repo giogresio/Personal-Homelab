@@ -10,7 +10,7 @@ The homelab consists of four virtual machines running on Proxmox VE. Each VM pro
 |---------|------------------|:-----:|----:|--------:|------------|--------------|
 | OPNsense | OPNsense | 2 | 4 GB | 100 GB | WAN: 192.168.50.100<br>VLAN10: 192.168.10.2<br>VLAN20: 192.168.20.2 | Firewall, Routing, NAT, VLANs, DHCP |
 | WindowsAD | Windows Server 2022 | 3 | 4 GB | 100 GB | 192.168.10.30 | Active Directory & DNS |
-| TrueNAS | TrueNAS SCALE | 2 | 8 GB | 100 GB + 1 TB SATA SSD | 192.168.10.20 | SMB File Server |
+| TrueNAS | TrueNAS SCALE | 2 | 8 GB | 100 GB + (3X) 160 GB SATA SSD | 192.168.10.20 | SMB File Server |
 | Ubuntu | Ubuntu Server LTS | 6 | 12 GB | 200 GB | 192.168.10.40 | Docker Host |
 
 ---
