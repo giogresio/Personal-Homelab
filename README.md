@@ -35,6 +35,7 @@ The goal of this project is to develop hands-on experience with enterprise netwo
 - SMB File Sharing
 - Storage Administration
 - Troubleshooting
+- Data Redundancy
 - Enterprise Networking
 
 ---
