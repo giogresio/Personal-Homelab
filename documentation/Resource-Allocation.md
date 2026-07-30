@@ -12,7 +12,7 @@
 | Motherboard | ASUS TUF B650M |
 | Primary Storage | 500 GB PCIe Gen5 NVMe SSD |
 | VM Storage | 2 TB PCIe Gen4 NVMe SSD |
-| NAS Storage | 1 TB SATA SSD |
+| NAS Storage | (3x)  160GB SATA SSD |
 | Power Supply | Corsair Gold 800 W |
 | CPU Cooler | Noctua NH-L9a Low Profile |
 
