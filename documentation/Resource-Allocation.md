@@ -24,7 +24,7 @@
 |-----------------|:-----:|----:|-------------:|--------------------|--------------|
 | Proxmox (Host) | 3 | 4 GB | 500 GB | — | Hypervisor Management |
 | OPNsense | 2 | 4 GB | 100 GB | — | Firewall, Routing, NAT, VLANs |
-| TrueNAS SCALE | 2 | 8 GB | 100 GB | 3X 160 GB SATA SSD | SMB NAS & Storage Server |
+| TrueNAS SCALE | 2 | 8 GB | 100 GB | (3X) 160 GB SATA SSD | SMB NAS & Storage Server |
 | Windows Server 2022 | 3 | 4 GB | 100 GB | — | Active Directory & DNS |
 | Ubuntu Server | 6 | 12 GB | 200 GB | — | Docker Host & Linux Services |
 
