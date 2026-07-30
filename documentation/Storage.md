@@ -10,7 +10,9 @@ The homelab uses three separate storage devices to isolate the hypervisor, virtu
 |---------|----------|-----------|---------|
 | SSD 1 | 500 GB | PCIe Gen5 NVMe | Proxmox VE Operating System |
 | SSD 2 | 2 TB | PCIe Gen4 NVMe | Virtual Machine Storage |
-| SSD 3 | 1 TB | SATA SSD | TrueNAS Storage Pool (SMB NAS) |
+| SSD 3 | 160 GB | SATA SSD | TrueNAS Storage Pool (SMB NAS) |
+| SSD 4 | 160 GB | SATA SSD | TrueNAS Storage Pool (SMB NAS) |
+| SSD 5 | 160 GB | SATA SSD | TrueNAS Storage Pool (SMB NAS) |
 
 ---
 
@@ -33,7 +35,7 @@ The homelab uses three separate storage devices to isolate the hypervisor, virtu
 └── Remaining Capacity (1.5 TB)
     ├── Future Virtual Machines
 
-1 TB SATA SSD
+3X 160 GB SATA SSD (RAID 5)
 └── TrueNAS Storage Pool
     ├── SMB Shares
     ├── User Files
@@ -59,7 +61,7 @@ The homelab uses three separate storage devices to isolate the hypervisor, virtu
 
 | Pool | Capacity | Purpose |
 |------|---------:|---------|
-| Main Pool | 1 TB | Centralized Network Storage |
+| Main Pool | Approx. 300 GB | Centralized Network Storage |
 
 ---
 
@@ -68,7 +70,8 @@ The homelab uses three separate storage devices to isolate the hypervisor, virtu
 
 - Separate the hypervisor operating system from virtual machine storage.
 - Dedicate high-speed NVMe storage to virtual machine workloads.
+- Utilize Raid storage configurations for data security
 - Isolate network storage on a dedicated SATA SSD managed by TrueNAS.
-- Provide centralized SMB storage for Windows and Linux systems.
+- Provide centralized SMB storage for OPNsense segmented network.
 
 ---
