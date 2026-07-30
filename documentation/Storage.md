@@ -10,9 +10,9 @@ The homelab uses three separate storage devices to isolate the hypervisor, virtu
 |---------|----------|-----------|---------|
 | SSD 1 | 500 GB | PCIe Gen5 NVMe | Proxmox VE Operating System |
 | SSD 2 | 2 TB | PCIe Gen4 NVMe | Virtual Machine Storage |
-| SSD 3 | 160 GB | SATA SSD | TrueNAS Storage Pool (SMB NAS) |
-| SSD 4 | 160 GB | SATA SSD | TrueNAS Storage Pool (SMB NAS) |
-| SSD 5 | 160 GB | SATA SSD | TrueNAS Storage Pool (SMB NAS) |
+| SSD 3 | 160 GB | Enterprise SATA SSD | TrueNAS Storage Pool (SMB NAS) |
+| SSD 4 | 160 GB | Enterprise SATA SSD | TrueNAS Storage Pool (SMB NAS) |
+| SSD 5 | 160 GB | Enterprise SATA SSD | TrueNAS Storage Pool (SMB NAS) |
 
 ---
 
