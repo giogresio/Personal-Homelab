@@ -1,6 +1,6 @@
 # Personal Homelab (In Progress)
 
-This project consists of a completely custom built homelab server rack using Proxmox VE as the main hypervisor server OS to simulate different types of common business IT infrastructure. This project demonstrates hands on practical experience planning, designing and configuring a backend service system with virtualization, network segmentation, Active Directory, firewall configurations, and network attached file storage.
+This project consists of a completely custom built homelab server rack from a mix of spare PC parts and used components from Ebay, using Proxmox VE as the main hypervisor server OS to simulate different types of common business IT infrastructure. This project demonstrates hands on practical experience planning, designing and configuring a backend service system with virtualization, network segmentation, Active Directory, firewall configurations, and network attached file storage.
 
 ---
 
