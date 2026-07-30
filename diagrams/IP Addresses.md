@@ -19,3 +19,4 @@
 | Device | Destination | Gateway | Purpose |
 |--------|-------------|---------|---------|
 | Home Router | 192.168.10.0/24 | 192.168.50.100 | GUI Access PC to Backend VLAN |
+| Proxmox Host | 192.168.50.50 | 192.168.50.1 | Proxmox through home router for Internet access. |
