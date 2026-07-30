@@ -65,6 +65,11 @@ The homelab uses three separate storage devices to isolate the hypervisor, virtu
 
 ---
 
+# SATA Passthrough Guide Followed 
+
+https://dannyda.com/2020/08/26/how-to-passthrough-hdd-ssd-physical-disks-to-vm-on-proxmox-vepve/
+
+---
 
 # Storage Design Goals
 
