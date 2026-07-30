@@ -114,7 +114,7 @@ Provides centralized storage accessible by authorized users and systems.
 - Shared folders
 - User permissions
 - Network file storage
-- Backup repository
+- Data redundancy through RAID 5
 
 ---
 
