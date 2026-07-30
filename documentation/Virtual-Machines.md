@@ -35,7 +35,7 @@ Provides centralized identity management and name resolution for devices on the 
 
 ## Purpose
 
-Provides centralized network storage for virtual machines and client systems.
+Provides centralized network storage for virtual machines and client systems with data redundancy.
 
 ---
 
