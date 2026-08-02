@@ -1,6 +1,3 @@
-### Access Control List
-
----
 
 # Automatically Generated Firewall Rules
 
